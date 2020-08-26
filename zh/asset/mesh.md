@@ -57,4 +57,3 @@
 
 目前我们的引擎已支持 glTF 2.0 规范，但暂时不支持以下功能：
 - Sparse accessor
-- morph target

@@ -64,4 +64,3 @@ The above image is all the animation asset information under the current model, 
 Currently, the glTF 2.0 specification is supported, but the following features are unavailable until __Cocos Creator 3D__ __v1.1__:
 
   - sparse accessor
-  - morph target
